@@ -6,18 +6,6 @@
       {
         "title": "Step 1 - Pathway Files",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2 - Reusing Scenarios",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3 - Using katacoda CLI to create a course",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4 - Using katacoda CLI to add existing scenarios to a course",
-        "text": "step4.md"
       }
     ],
     "intro": {
@@ -28,9 +16,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "node"
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
