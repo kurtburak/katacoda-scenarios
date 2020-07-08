@@ -1,1 +1,1 @@
-Congratulations, you have learned how to make a course based on a collection of Katacoda scenarios.
+Thank you for trying the playground. More courses and scenarios are available at on our [homepage](/)
