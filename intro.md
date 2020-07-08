@@ -1,3 +1,7 @@
-In this scenario, you will learn how to create a course, a series of Katacoda scenarios collected together. 
+This is a Kubernetes playground. From here you can play with a Kubernetes host and explore it's API.
 
-The advantage of creating a course is the ability to group related scenarios to provide users with a clear explanation and order to complete the content.
+#### What are playgrounds?
+
+Playgrounds give you a configured environment to start playing and exploring using an unstructured learning approach.
+
+Playgrounds are great for experimenting and trying samples. To learn more about the technology then start with one of our [labs](/learn)
